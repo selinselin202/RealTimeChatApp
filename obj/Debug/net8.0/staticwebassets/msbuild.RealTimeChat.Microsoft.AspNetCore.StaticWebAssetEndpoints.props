@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/RealTimeChat/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FixaKWYL\u002B\u002BybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FixaKWYL\u002B\u002BybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Dec 2025 22:53:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealTimeChat/index.uzm6uvms8t.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uzm6uvms8t"},{"Name":"integrity","Value":"sha256-FixaKWYL\u002B\u002BybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA="},{"Name":"label","Value":"_content/RealTimeChat/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FixaKWYL\u002B\u002BybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Dec 2025 22:53:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealTimeChat/js/chat.jhmndfxw0u.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\chat.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jhmndfxw0u"},{"Name":"integrity","Value":"sha256-l6ounNa\u002BkIJjUw5H9\u002BHsXvdV1pJua7FB\u002BocbjExZj\u002BU="},{"Name":"label","Value":"_content/RealTimeChat/js/chat.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2170"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022l6ounNa\u002BkIJjUw5H9\u002BHsXvdV1pJua7FB\u002BocbjExZj\u002BU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Dec 2025 22:56:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RealTimeChat/js/chat.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\chat.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l6ounNa\u002BkIJjUw5H9\u002BHsXvdV1pJua7FB\u002BocbjExZj\u002BU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2170"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022l6ounNa\u002BkIJjUw5H9\u002BHsXvdV1pJua7FB\u002BocbjExZj\u002BU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Dec 2025 22:56:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

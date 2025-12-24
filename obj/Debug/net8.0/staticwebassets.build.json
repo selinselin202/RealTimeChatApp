@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "vqgGz/vI/yojiD4E1bDqtpaCzh7qo9symosgtdwjSV8=",
+  "Source": "RealTimeChat",
+  "BasePath": "_content/RealTimeChat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RealTimeChat\\wwwroot",
+      "Source": "RealTimeChat",
+      "ContentRoot": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\",
+      "BasePath": "_content/RealTimeChat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\index.html",
+      "SourceId": "RealTimeChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\",
+      "BasePath": "_content/RealTimeChat",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uzm6uvms8t",
+      "Integrity": "FixaKWYL++ybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\js\\chat.js",
+      "SourceId": "RealTimeChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\",
+      "BasePath": "_content/RealTimeChat",
+      "RelativePath": "js/chat#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jhmndfxw0u",
+      "Integrity": "l6ounNa+kIJjUw5H9+HsXvdV1pJua7FB+ocbjExZj+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\chat.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FixaKWYL++ybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Dec 2025 22:53:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FixaKWYL++ybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA="
+        }
+      ]
+    },
+    {
+      "Route": "index.uzm6uvms8t.html",
+      "AssetFile": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FixaKWYL++ybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Dec 2025 22:53:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uzm6uvms8t"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FixaKWYL++ybC92uGmvEVh0x0ypHr/qye1GFh3ne0ZA="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.jhmndfxw0u.js",
+      "AssetFile": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l6ounNa+kIJjUw5H9+HsXvdV1pJua7FB+ocbjExZj+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Dec 2025 22:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jhmndfxw0u"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chat.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l6ounNa+kIJjUw5H9+HsXvdV1pJua7FB+ocbjExZj+U="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js",
+      "AssetFile": "C:\\Users\\selin\\Downloads\\RealTimeChat\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l6ounNa+kIJjUw5H9+HsXvdV1pJua7FB+ocbjExZj+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 24 Dec 2025 22:56:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l6ounNa+kIJjUw5H9+HsXvdV1pJua7FB+ocbjExZj+U="
+        }
+      ]
+    }
+  ]
+}
